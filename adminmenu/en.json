@@ -176,7 +176,8 @@
     "DM_Player": "Message Player",
 
     "messagePlayerLabel": "Message Player",
-    "messagePlayerButton": "Send Private Message"
+    "messagePlayerButton": "Send Private Message",
+    "Damage_Player_Vehicle": "Damage Player Vehicle"
 
 
 }
