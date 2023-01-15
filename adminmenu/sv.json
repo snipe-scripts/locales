@@ -170,5 +170,12 @@
 
     "admin_menu_chat_heading": "Admin Meny Chatt",
     "reports_heading": "Rapporter",
-    "send_btn": "Skicka"
+    "send_btn": "Skicka",
+    "delete_modal_message": "Är du säker på att du vill ta bort rapporterna för",
+    
+    "DM_Player": "Meddelandespelare",
+
+    "messagePlayerLabel": "Message Player",
+    "messagePlayerButton": "Send Private Message",
+    "Damage_Player_Vehicle": "Damage Player Vehicle"
 }
