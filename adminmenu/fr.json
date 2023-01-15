@@ -172,12 +172,12 @@
     "admin_menu_chat_heading": "Messages inter-staff",
     "reports_heading": "Reports",
     "send_btn": "Envoyer",
-    "delete_modal_message": "Voulez-vous vraiment supprimer les rapports pour",
+    "delete_modal_message": "Voulez-vous vraiment supprimer les reports pour",
     
     "DM_Player": "Lecteur de messages",
 
-    "messagePlayerLabel": "Message Player",
-    "messagePlayerButton": "Send Private Message"
+    "messagePlayerLabel": "Contacter le joueur",
+    "messagePlayerButton": "Envoyer un message privé"
 
 
 }
