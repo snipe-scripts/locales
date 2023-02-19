@@ -177,5 +177,28 @@
 
     "messagePlayerLabel": "Message Player",
     "messagePlayerButton": "Send Private Message",
-    "Damage_Player_Vehicle": "Damage Player Vehicle"
+    "Damage_Player_Vehicle": "Damage Player Vehicle",
+
+    "theme_tooltip": "Theme",
+    "chat_tooltip": "Chat",
+    "report_tooltip": "Reports",
+    "dev_mode_tooltip": "Dev Mode",
+    "debug_tooltip": "Debug",
+    "settings_tooltip": "Settings",
+    "players_tooltip": "Players",
+    "resources_tooltip": "Resources",
+    "players_page_heading": "Players",
+
+    "online_tab_name": "Online",
+    "offline_tab_name": "Offline",
+
+    "resources_active_tab_name": "Running",
+    "resources_inactive_tab_name": "Stopped",
+
+    "player_license_label": "Licenses",
+    "resources_page_heading": "Resources",
+    "resources_search_placeholder": "Search Resources by Name...",
+    "resource_start_btn_tooltip": "Start",
+    "resource_stop_btn_tooltip": "Stop",
+    "resource_replay_btn_tooltip": "Restart"
 }
