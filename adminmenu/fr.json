@@ -199,9 +199,10 @@
     "player_license_label": "Licenses",
     "resources_page_heading": "Resources",
     "resources_search_placeholder": "Search Resources by Name...",
-    "resource_start_btn_tooltip": "Start",
-    "resource_stop_btn_tooltip": "Stop",
-    "resource_replay_btn_tooltip": "Restart"
-
+    
+    "spectate_tooltip" : "Spectate",
+    "bring_tooltip" : "Bring",
+    "send_back_tooltip" : "Send Back",
+    "teleport_tooltip" : "Teleport"
 
 }
