@@ -211,5 +211,8 @@
     "press_R_gizmo_helper": "2. Press R to rotate",
     "press_E_gizmo_helper": "3. Press E to place",
     "press_esc_gizmo_helper": "4. Press Esc to cancel",
-    "press_alt_gizmo_helper": "5. Press Alt to toggle focus"
+    "press_alt_gizmo_helper": "5. Press Alt to toggle focus",
+
+    "report_confirm_label": "Confirm",
+    "report_cancel_label": "Cancel"
 }
