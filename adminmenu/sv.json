@@ -172,7 +172,6 @@
     "reports_heading": "Rapporter",
     "send_btn": "Skicka",
     "delete_modal_message": "Är du säker på att du vill ta bort rapporterna för",
-    
     "DM_Player": "Meddelandespelare",
 
     "messagePlayerLabel": "Message Player",
@@ -195,12 +194,22 @@
     "resources_active_tab_name": "Running",
     "resources_inactive_tab_name": "Stopped",
 
-    "player_license_label": "Licenses",
     "resources_page_heading": "Resources",
     "resources_search_placeholder": "Search Resources by Name...",
     
     "spectate_tooltip" : "Spectate",
     "bring_tooltip" : "Bring",
     "send_back_tooltip" : "Send Back",
-    "teleport_tooltip" : "Teleport"
+    "teleport_tooltip" : "Teleport",
+    "NoClip_2" : "NoClip 2",
+    "close_btn" : "Close",
+    "Admin_Tag": "Admin Tag",
+    "Toggle_Minimap" : "Toggle Minimap",
+    "side_panel_player_list" : "Player List (Side Panel)",
+    "phone_number_label": "Phone Number",
+    "press_Z_gizmo_helper": "1. Press Z to translate",
+    "press_R_gizmo_helper": "2. Press R to rotate",
+    "press_E_gizmo_helper": "3. Press E to place",
+    "press_esc_gizmo_helper": "4. Press Esc to cancel",
+    "press_alt_gizmo_helper": "5. Press Alt to toggle focus"
 }
