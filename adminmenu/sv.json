@@ -29,7 +29,9 @@
     "Show_Coordinates": "Visa koordinater",
     "Clear_Inventory": "Töm inventering",
     "Bring_Player": "Teleportera spelare till dig",
-    "Clear_Area": "Rensa område",
+    "Clear_Area_Vehicles": "Clear Area Vehicles",
+    "Clear_Area_Peds": "Clear Area Peds",
+    "Clear_Area_Objects": "Clear Area Objects",
     "Change_Weather": "Ändra väder",
     "Change_Time": "Ändra tid",
     "Create_Gang_Stashes": "Skapa gäng förråd",
@@ -66,6 +68,7 @@
     "utility_tab": "Verktyg",
     "troll_tab": "Troll",
     "fav_tab": "Favoriter",
+    "custom_tab": "Custom",
 
     "submit": "Skicka",
     "search_placeholder": "Sök..",
@@ -214,5 +217,30 @@
     "press_alt_gizmo_helper": "5. Press Alt to toggle focus",
 
     "report_confirm_label": "Confirm",
-    "report_cancel_label": "Cancel"
+    "report_cancel_label": "Cancel",
+    "owner_stash_label": "Owner (For Ox inventory only and leave blank for default)",
+    "Revive_All": "Revive All",
+    
+    "Heal": "Heal Player",
+    "heal_btn": "Heal",
+
+    "Wipe_Player": "Wipe Player",
+    "wipe_btn": "Wipe",
+
+    "Max_Mod_Vehicle": "Max Mod Vehicle",
+
+    "Pee_Player": "Pee Player",
+    "Poop_Player": "Poop Player",
+    "dev_mode_side_panel" : "Dev Mode (Side Panel)",
+    "debug_mode_side_panel": "Debug Mode (Side Panel)",
+    "resources_side_panel" : "Resources (Side Panel)",
+    "copy_identifier_tooltip" : "Copy Identifier",
+    "Give_Perms": "Give Permission",
+    "Remove_Perms": "Remove Permission",
+    "permsLabel" : "Permissions",
+
+    "cash_label": "Cash",
+    "bank_label": "Bank",
+
+    "Remove_Perms_label": "Remove Permission"
 }

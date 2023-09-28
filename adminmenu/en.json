@@ -29,7 +29,9 @@
     "Show_Coordinates": "Show Coordinates",
     "Clear_Inventory": "Clear Inventory",
     "Bring_Player": "Bring Player",
-    "Clear_Area": "Clear Area",
+    "Clear_Area_Vehicles": "Clear Area Vehicles",
+    "Clear_Area_Peds": "Clear Area Peds",
+    "Clear_Area_Objects": "Clear Area Objects",
     "Change_Weather": "Change Weather",
     "Change_Time": "Change Time",
     "Create_Gang_Stashes": "Create Gang Stashes",
@@ -66,6 +68,7 @@
     "utility_tab": "utility",
     "troll_tab": "troll",
     "fav_tab": "Favorites",
+    "custom_tab": "Custom",
 
     "submit": "Submit",
     "search_placeholder": "Search..",
@@ -208,6 +211,7 @@
     "Admin_Tag": "Admin Tag",
     "Toggle_Minimap" : "Toggle Minimap",
     "side_panel_player_list" : "Player List (Side Panel)",
+    
     "phone_number_label": "Phone Number",
     "press_Z_gizmo_helper": "1. Press Z to translate",
     "press_R_gizmo_helper": "2. Press R to rotate",
@@ -216,5 +220,33 @@
     "press_alt_gizmo_helper": "5. Press Alt to toggle focus",
 
     "report_confirm_label": "Confirm",
-    "report_cancel_label": "Cancel"
+    "report_cancel_label": "Cancel",
+    "owner_stash_label": "Owner (For Ox inventory only and leave blank for default)",
+    "Revive_All": "Revive All",
+
+    "Heal": "Heal Player",
+    "heal_btn": "Heal",
+
+    "Wipe_Player": "Wipe Player",
+    "wipe_btn": "Wipe",
+
+    "Max_Mod_Vehicle": "Max Mod Vehicle",
+
+    "Pee_Player": "Pee Player",
+    "Poop_Player": "Poop Player",
+
+    "last_updated": "Last Updated: ",
+    "dev_mode_side_panel" : "Dev Mode (Side Panel)",
+    "debug_mode_side_panel": "Debug Mode (Side Panel)",
+    "resources_side_panel" : "Resources (Side Panel)",
+    "copy_identifier_tooltip" : "Copy Identifier",
+    "Give_Perms": "Give Permission",
+    "Remove_Perms": "Remove Permission",
+    "permsLabel" : "Permissions",
+
+    "cash_label": "Cash",
+    "bank_label": "Bank",
+
+    "Remove_Perms_label": "Remove Permission"
+
 }
